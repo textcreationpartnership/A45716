@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dying mans last sermon. Or, The fathers last blessing Left, and bequeathed as a legacy unto his children, immediately before his death. Being comfortable meditations and preparations for the day of death; which for the worth of them are more worthy to be written in letters of gold, then with ink and paper. The twelfth edition with additions, by Andrew Jones, a servant of Jesus Christ.</title>
+            <author>Jones, Andrew, M.A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45716</idno>
+            <idno type="STC">Wing H945F</idno>
+            <idno type="STC">ESTC R216557</idno>
+            <idno type="EEBO-CITATION">99828284</idno>
+            <idno type="PROQUEST">99828284</idno>
+            <idno type="VID">32711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32711)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dying mans last sermon. Or, The fathers last blessing Left, and bequeathed as a legacy unto his children, immediately before his death. Being comfortable meditations and preparations for the day of death; which for the worth of them are more worthy to be written in letters of gold, then with ink and paper. The twelfth edition with additions, by Andrew Jones, a servant of Jesus Christ.</title>
+                  <author>Jones, Andrew, M.A.</author>
+                  <author>Hart, John, D.D., attributed name.</author>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Elizabeth Andrews, at the White Lion near Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed (erroneously?) to John Hart, by Wing.</note>
+                  <note>Signatures: A [-A1?], B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Death --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32711:1" rendition="simple:additions"/>
+            <p>THE DYING MANS Laſt Sermon. OR, <hi>The Fathers laſt Bleſsing.</hi> Left, and bequeathed as a Legacy unto his Chil<g ref="char:EOLhyphen"/>dren, immediately before his Death. Being comfortable Meditations and Preparati<g ref="char:EOLhyphen"/>ons for the day of death; which for the worth of them are more worthy to be written in letters of Gold, then with Ink and Paper.</p>
+            <p>The twelfth Edition with Additions, By AN<g ref="char:EOLhyphen"/>DREW JONES, a ſervant of Jeſus Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>Job 14.1, 2.</hi>
+               </bibl>
+               <p>Man that is born of a woman, is of few dayes and full of trouble. He cometh forth like a flower, and is cut down: he fleeth alſo as a ſhadow, and continueth not.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Elizabeth Andrews,</hi> at the White Lion near <hi>Pye-Corner.</hi> 1665.</p>
+            <pb facs="tcp:32711:2"/>
+            <pb facs="tcp:32711:3" rendition="simple:additions"/>
+            <pb facs="tcp:32711:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32711:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:32711:4"/>
+            <head>THE FATHERS laſt Bleſſing, Left and bequeathed as a Legacy unto his Children a little before his Death.</head>
+            <p>THe life of Chriſtian is, or rather ſhould be, a continued daily medi<g ref="char:EOLhyphen"/>tation on, or a preparation for the day of his death. The firſt man living was called <hi>Adam Gen.</hi> 2. which in the original ſignifies a clod of red earth: and he was arrayed and cloathed by God with the skins of dead beaſts, and ad<g ref="char:EOLhyphen"/>judged
+<pb facs="tcp:32711:5"/>to the Earth to dig and delve in it, God would have his very Name, his Ap<g ref="char:EOLhyphen"/>parel, his Employments, to be continual remembrancers of his original, and premo<g ref="char:EOLhyphen"/>nitours of his mortality. <hi>O that men were wiſe, that they underſtood this, that they would remember their latter end!</hi> For what<g ref="char:EOLhyphen"/>ſoever a mans Wiſdom, Birth, Beauty, Strength, or State be, his foundation is in the Duſt: <hi>Duſt thou art, and unto Duſt thou ſhalt return. Gen. 3.19.</hi> There ſeems to be a vaſte difference between a Cedar and a Shrub, a Vine and a Bramble, ſo long as they both grow together, but cut them down and burn them, and their aſhes will be one and the ſame. In this mortal life, ſome men ſit upon the Throne, others are grinding at the Mill; ſome go clothed in purple, and fare deliciouſly eve<g ref="char:EOLhyphen"/>ry day as <hi>Dives</hi> did; and others like <hi>Lazarus,</hi> lie at rich mens gates, and have not ſo much as the crumbs of their table: but in the Grave there is no difference, there the poor and the rich are all one; the Worms feed as well on rich <hi>Dives,</hi> as on poor <hi>Laza<g ref="char:EOLhyphen"/>rus:</hi> Kings and Emperours muſt ſubmit to Death, and lay down their Crowns and Scepters at the Grave.</p>
+            <pb facs="tcp:32711:5"/>
+            <p>The Daughters of Jeruſalem, as the Prophet <hi>Iſaiah</hi> ſaith in the third Chapter and ſixteenth Verſe, which <hi>walk with ſtretched forth necks; and wanton inticing eyes, mincing as they go, and making a tink<g ref="char:EOLhyphen"/>ling with their feet,</hi> muſt at laſt drop into the grave. And they that glory in the no<g ref="char:EOLhyphen"/>bleneſs of their Birth and Blood, muſt make their Beds in the Duſt, and aknow<g ref="char:EOLhyphen"/>ledge Corruption for their Father, and the Worms for their Mother. Why then ſhould ſinful Duſt and Aſhes be proud. <hi>For we brought nothing with us into this world, and it is moſt certain we ſhall carry nothing with us out of this world,</hi> as the Apoſtle ſaith, <hi>1 Tim. 6.7.</hi> And holy <hi>Job</hi> ſaith, <hi>Job 1.21. Naked came we out of our mothers womb and naked ſhall we return, &amp;c.</hi> And the Apoſtle ſaith, <hi>Hebrews 9.27. It is appointed for all men once to dye.</hi> There is nothing more certain then Death, and yet nothing more uncertain: moſt certain it is we muſt all dye, but when, where, or how we muſt dye, that is altogether un<g ref="char:EOLhyphen"/>certain.</p>
+            <p>We read in the Scripture that all the Fathers dyed, <hi>Gen. 5. Adam</hi> the firſt man dyed; and <hi>Mechuſelah</hi> the eldeſt man he
+<pb facs="tcp:32711:6"/>dyed alſo. <hi>Abraham</hi> the friend of God, and father of all the faithful, he dyed, as you may read, <hi>Gen 25.8 And Abraham gave up the ghoſt, and dyed in a good old age, an old man and full of years. David</hi> a man af<g ref="char:EOLhyphen"/>ter Gods own heart, who triumphed over all the hoſt of the Philiſtims, and ſlew <hi>Go<g ref="char:EOLhyphen"/>liah, 1 Sam. 17.49</hi> yet was overcome by death, as you may read, <hi>1 Kings 2.10.</hi> And <hi>Solomon</hi> the wiſeſt of men was conſtrain<g ref="char:EOLhyphen"/>ed to ſubmit unto death as you may ſee, <hi>1 Kings. 11.43.</hi> And <hi>Moſes</hi> the ſervant of the Lord, he dyed, <hi>Deut. 34.5. And what man is he that liveth and ſhall not ſee death? For as wiſe men dye,</hi> (ſaith the Pſalmiſt, <hi>Pſalm 49.10.) ſo likewiſe the fool, and the brutiſh perſon.</hi> We all, like the Diſci<g ref="char:EOLhyphen"/>ples, run faſt, who ſhall come firſt to the Sepulchre. We are no ſooner born but we begin to dye. <hi>Man that is born of a Woman is of few days, He cometh forth like a flower, and is cut down, Job 14. 1, 2. In the morning they grow up and flouriſh, in the evening they are cut down and withered,</hi> ſaith <hi>Moſes, Pſalm 90. ver. 9.</hi> And holy <hi>Job</hi> ſaith, <hi>There is an appointed time for man upon earth, and God hath ſet bounds, beyond which he cannot paſs, Job 7.1.</hi> At the end of his appointed time
+<pb facs="tcp:32711:6"/>he muſt dye; yet the time when is very uncertain, as alſo the manner how: <hi>For one dyeth in his full ſtrength, and another in the bitterneſs of his ſoul.</hi> God will have us ignorant of the day of our death, that we might be ready every day. We are but Te<g ref="char:EOLhyphen"/>nants at will, and know not how ſoon our great Lord and Landlord may eject us. Death ſurprized <hi>Abel</hi> in the field, <hi>Gen. 4.8. Ely</hi> ſiting at the door. <hi>1 Sam. 4.18.</hi> and <hi>Jobs</hi> Children a feaſting, <hi>Job 1.18. Herod</hi> ſitting on his throne, <hi>Acts 12.33.</hi> And as death it ſelf is uncertain, ſo is the manner alſo uncertain; there is a naturall death, and there is a violent death; a natural death is when a man, as a lamp goeth out, becauſe there is no more oyl left to feed it; and a violent death is when the ſoul is as it were thruſt out of the body by ſome un<g ref="char:EOLhyphen"/>timely accident. There is a timely death, when a man comes to his growth, in a full age, as a ſhock of corn cometh in his ſea<g ref="char:EOLhyphen"/>ſon, which every godly man doth, though he dye never ſo ſoon, or never ſo young. And there is alſo an untimely death, (that is) when a man is cropt or cut off as an ear of Corn before it be harveſt. And there is a lingering death, when the
+<pb facs="tcp:32711:7"/>ſoul is beſieged with ſickneſs, and ſo ſtar<g ref="char:EOLhyphen"/>ved out of his habitation. And there is a ſudden death, which ſtrikes without gi<g ref="char:EOLhyphen"/>ving warning, from which the Lord deli<g ref="char:EOLhyphen"/>ver us, And there is alſo a quiet death, a departing in peace, when the ſoul doth as it were ſteal out of the body.</p>
+            <p>
+               <hi>Joſiah</hi> he ours by the wound of an arrow, <hi>2 Chron. 35.23. Abimelech</hi> by the tall of a ſtone, <hi>Judg. 9 53.</hi> Wicked proud <hi>Jezabel</hi> is eaten <hi>up</hi> of dogs, <hi>2 Kings 9 36.</hi> There are thouſands of caſualties and diſcaſes, and no man living knoweth what ſhall be his end: <hi>For unto God the Lord belong the iſſues of death, Pſal. 68.20.</hi> There is but one way into the world, but there are a thouſand ways out of the world. And we may all ſay of death as <hi>David of Ahimaaz,</hi> he is a good man and bringeth good tydings.</p>
+            <p>For firſt, the death of the body frées us from the body of death, the Remainders of corruption.</p>
+            <p>Secondly, the death of the body frees us from the miſery and incumbrances of this life. So many are the miſeries and af<g ref="char:EOLhyphen"/>flictions of this life, that were it not for the hope of heaven, it would be worſe then hell it ſelf; croſſ afflictions come as fact
+<pb facs="tcp:32711:7"/>upon its as <hi>Jobs</hi> Meſſengers. The life of man is tike a Winters day, ſhort and very cloudy: <hi>Few and evil are the dayes of this life, Gen. 45 9 Man that is born of a Wo<g ref="char:EOLhyphen"/>man is but of few dayes, but full of troubles, Job 14.1, 2.</hi> Laſtly, death tranſlates us from a priſon to a palace, from a Scaffold to a Paradiſe, from a vale of miſeries to a <hi>away all tears from our eyes, Rev. 21.4.</hi> Where there ſhall be no more death, nor ſorrow, nor crying, neither ſhall there be any more pain; where we ſhall be perfectly free from all ſin: therefore may we ſay with <hi>Solomon, Better is the dead then the li<g ref="char:EOLhyphen"/>ving.</hi> And with St. <hi>Paul, To me to live is Chriſt, and to dye is gain, Phil. 1.27.</hi>
+            </p>
+            <p>Every man with <hi>Balaam</hi> deſires to dye the drath of the righteous, <hi>Numb. 23.10.</hi> and in this they deſire well: For to dye well is a point of the higheſt concernment in the world; becauſe either eternal life or eternal death depends upon it; for as the tree falls, ſo ſhall if lie. But to dye well is not attainable, unleſs we have firſt learnt the art of living well. A fair <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay Bay have a foul evening, but a good life cannot have a bad death; for as <hi>David</hi> ſaith, <hi>Pſal. 37.37.
+<pb facs="tcp:32711:8"/>Mark the perfect man, and behold the up<g ref="char:EOLhyphen"/>right, for the end of that man is peace;</hi> there<g ref="char:EOLhyphen"/>fore it is good always to be in readineſs for death; and whenſoever the will of the Lord is, willingly and chearfully to ſub<g ref="char:EOLhyphen"/>mit unto it: for it is written, <hi>Rev. 14.13. Bleſſed are the dead that dye in the Lord, for they reſt from their labours, and their works do follow them.</hi> And. <hi>if we be dead in Chriſt, we ſhall alſo riſe with Chriſt, Rom. 6.8. For when Chriſt who is our life ſhall appear, then ſhall we alſo appear with him in glory, Col. 3.4.</hi>
+            </p>
+            <p>And now my Son, as I have leaſure and opportunity enough, ſo have I cauſe more then enough to meditate and prepare for death. I bleſs God, neither my proſperity nor my adverſity hath made me a ſtranger to the thoughts of Mortality: for medita<g ref="char:EOLhyphen"/>ting on, and preparing for death, is never unſeaſonable, although the time and man<g ref="char:EOLhyphen"/>ner of death be alwayes very uncertain. I bleſs God I am not ſo, old as to be weary of life, nor ſo bad as to be either afraid to dye, or aſhamed to live: my afflictions make me even ſometimes deſire to dye; but when I conſider that it is the glory of a Chriſtian to dye daily, I deſire to conquer
+<pb facs="tcp:32711:8"/>death by faith, and hopes of a better life. Bleſſed be God, I can look upon the ſting of death as unpoiſonous, although it may be ſharp, becauſe I know my Redemer Je<g ref="char:EOLhyphen"/>ſus Chriſt hath taken it away by his death. I can ſay. and that truly; I never found ſo much life of Religion, the feaſt of a good conſcience, as I have done ſince I came to converſe ſo nearly with the thoughts of death. I do wholly deſire to depend upon God, and ſubmit to his will, both in life and death. I ſhall not think my life too long or too tedious, if God by prolonging it ſhall be pleaſed to give me freſh opportu<g ref="char:EOLhyphen"/>nities to do good thereby; neither ſhall I think my death too ſoon, whenſoever the will of the Lord is to call for me: it is my honour and my erceeding great com<g ref="char:EOLhyphen"/>fort that I can go as willingly to my grave, as to a bed of doun, or roſes; the will of God hath confined and concluded my will, I ſhall have pleaſure in dying; for death cannot deprive me of more then I am wil<g ref="char:EOLhyphen"/>ling to loſe when God ſees it fit, whoſe mercy I am confident will abundantly re<g ref="char:EOLhyphen"/>ward my loſs, with the joyes of heaven.</p>
+            <p>My Son, the God of heaven and earth be thy portion; theſe are my laſt words,
+<pb facs="tcp:32711:9"/>for now the time is come, that I muſt leave this world and go to a better: hi<g ref="char:EOLhyphen"/>therto as a Father have I protected and di<g ref="char:EOLhyphen"/>rected you; but now my time being come, my dayes being but a ſpan long, I muſt go hence, and ſhall be no more ſeen, <hi>Pſalm 39.13.</hi> See therefore that you ſerve the Lord with all ſingleneſs and uprightneſs of heart in godly ſincerity, and he will be a Father unto you in my ſtead. Keep a good Conſcience all the dayes of your life, no to others, as you would have others to do to you; <hi>For that is the Law and the Prophets,</hi> ſaith our bleſſed Saviour, <hi>Mat 7. 12.</hi> And then when the time ſhall come, (which although you be young now, you know not how near it may lodge at this preſent; for many are living now that muſt dye to morrow, who would weep if they knew they had ſo ſhort a time to live) that when you ſhall lie upon your death<g ref="char:EOLhyphen"/>bed, death may not a frighten you, but may appear unto you (as bleſſed be God it doth now unto me) not in his ugly ſhapes and deformities, but ſtingleſs as a friend; thus ſhall you have comfort within you, that ſhall rejoyce you when all out wards com<g ref="char:EOLhyphen"/>forts ſail you <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then every pain you feel
+<pb facs="tcp:32711:9"/>ſhall be but as a pleaſure unto your, becauſe it ſhall prevent the pains of hell: then the grave ſhall not appear loathſome unto you, but ſweet, becauſe it was the Lords bed, I bleſs God, I finde the truth of this upon my own ſoul; and O that the mercies of God to me might move you and all others to love him, and to ſerve him to your lives end. And I charge thee before God, before whom I am preſently to appear, that you honour God above all things daily and principally: let him be thy fear, and let him be thy dread, let him be thy coun<g ref="char:EOLhyphen"/>ſellour, the joy and delight of thy ſoul; and be ſure thou ſet God alwayes before thy face, ſo will he be a lanthorn to thy feet, and a guide to thy paths. Labour ſtrongly to ſuppreſs vice, and cralt vertue, ſtrive to be in love with goodneſs; remember that thou muſt give an account of each idle hour, and very idle word, as our Savi<g ref="char:EOLhyphen"/>our ſaith, <hi>Matth, 12.36.</hi> Let all thy acti<g ref="char:EOLhyphen"/>ons then proceed from a good conſcience, for thou ſhalt never thrive by ſuch wayes and means as God hath accurſed; for that is a miſerable gain that is gotten by the leſs of thy ſoul. <hi>For what ſhall it profit a man to gain the whole world, and loſe his own ſoul.
+<pb facs="tcp:32711:10"/>Matthew 16.26.</hi> Be alwayes the ſame in the ſight of God, for he ſeeth all mens acti<g ref="char:EOLhyphen"/>ons be they never ſo ſecret: as thou ap<g ref="char:EOLhyphen"/>peareſt to be in the ſight of men, take heed thou give no aid nor aſſiſtance to any wicked words or works, neither counte<g ref="char:EOLhyphen"/>nance wicked men in the leaſt with thy company; for the faults of thoſe whom thou favoureſt will be imputed to thee. Be not a follower of thoſe that inrich them<g ref="char:EOLhyphen"/>ſelves by unjuſt gain, for it is better to be poor with honeſty, then rich by wicked<g ref="char:EOLhyphen"/>neſs. Account that day loſt in which thou haſt not done or learnt ſome good. Be more careful to kéep thy word then thy mo<g ref="char:EOLhyphen"/>ney: acquaint thy ſelf with ſuch as are good and vertuous: look upon every thing here below as very uncertain, ſo ſhalt thou not rejoyce overmuch in thy proſperity, nor be overſad or diſmayed in adverſity. And what counſel I give thee here for the preſent, be sure thou treaſure it up in ſtore for the time to come.</p>
+            <p>
+               <hi>My Son.</hi> ſaith <hi>Solomon, Prov. 1. &amp;c. Hear the inſtruction of thy Father. Hear ye chil<g ref="char:EOLhyphen"/>dren the inſtructions of a Father, and attend to know underſtanding, then ſhalt thou un<g ref="char:EOLhyphen"/>derſtand the fear of the Lord, and finde the
+<pb facs="tcp:32711:10"/>knowledge of God. Then ſhalt thou under<g ref="char:EOLhyphen"/>ſtand righteouſneſs, judgement, and equity, yea, every good path. Walk in the wayes of good men, and keep the paths of the righte<g ref="char:EOLhyphen"/>nous; for the upright ſhall dwell in the Land, and the perfect ſhall remain in it. But the wicked ſhall be cut off from the earth, and tranſgreſſors ſhall be rooted out. Let not mercy and truth forſake thee, binde them a<g ref="char:EOLhyphen"/>bout thy neck, write them upon the tables of thy heart, ſo ſhalt thou finde favour and good underſtanding in the ſight of God and man. Truſt in the Lord with all thine heart, and lean not to thine own underſtanding. In all thy wayes acknowledge him, and he ſhall di<g ref="char:EOLhyphen"/>rect thy paths. Happy is the man that findes wiſdom, that getteth underſtanding, for the merchandiſe of it is better then ſilver, and the gain thereof then fine gold. She is more pre<g ref="char:EOLhyphen"/>cious then rubies, her wayes are wayes of plea<g ref="char:EOLhyphen"/>ſantneſs, and all her paths are peace. She is a tree of life to them that lay hold on her, and happy is every one that retains her. My Son keep ſound wiſdom and diſcretion, and let it not depart from thine eyes, ſo ſhall it be life to thy ſoul, and grace to thy neck. Then ſhalt thou walk in thy way ſafely and thy foot ſhall not ſtumble. When thou lieſt down thou
+<pb facs="tcp:32711:11"/>ſhalt not be afraid, for the Lord ſhall be thy confidence. Withhold not good from them to whom it is due, when it is in the power of thy hand to do it. Enter not into the path of the wicked, go not in the way of wicked men; avoid it, paſs not by it, turn from it, and paſs away. Turn not to the right hand nor to the left, remove thy foot from evil. Be not over haſty to get riches, but conſider it is the bleſſing of the Lord that maketh rich, and he addeth no ſorrow to it. Let not thine heart envy ſinners, but be thou in the fear of the Lord all the day. Be not among wine-bibbers, nor among riotous eaters of fleſh for the drunkard and the glutton ſhall come to poverty; and drowſineſs ſhall cloathe a man with rags. Look not upon the wine when it is red, when it giveth its colour in the cup; for at the laſt it ſtingeth like a ſerpent. Deviſe not evil againſt thy neighbour, for he that deviſeth to do evil, ſhall be called a miſchievous perſon. Rejoyce not when thine enemy falls, and let not thine heart be glad when be ſtumbleth, leſt the Lord ſee it, and it diſpleaſe him. Give not thy ſtrength unto women, nor thy words to that which deſtroyeth Kings. It is not for Kings to drink wine, nor Princes ſtrong drink; leſt they drink and forget the Law. Open thy
+<pb facs="tcp:32711:11"/>mouth for the dumb, open thy mouth: judge righteouſly, and plead the cauſe of the poor and needy. Say not thou what is the cauſe that the former dayes were better then theſe, for thou doeſt not wiſely imagine concerning that, but conſider the work of the Lord; for who can make that ſtreight which he hath made crooked, Eccleſ. 7.10, 13.</hi>
+            </p>
+            <p>And further, my Son I would have thée to conſider ſeriouſly of what I have ſaid, and remember this as the laſt words of thy dying Father: <hi>Fear God and keep his Com<g ref="char:EOLhyphen"/>mandments, for this is the whole duty of man. For God will bring every work into judgement, with every ſecret thing, whe<g ref="char:EOLhyphen"/>ther it be good, or whether it be evil, Eccleſ. 12.13, 14.</hi>
+            </p>
+            <p>Thus having briefly admoniſhed thée in the words of the Wiſe-man, I ſhall ſpend out my laſt breath in a word or two more, and I have done: it is ſome refreſhment to my fainting ſpirits to conſider how you have begun and ſpent ſome years in the experience of troubles, and exerciſe of pa<g ref="char:EOLhyphen"/>tience; and indeed I had rather you ſhould be good and afflicted, then great and ſo<g ref="char:EOLhyphen"/>cond in the world, I hope God hath de<g ref="char:EOLhyphen"/>ſigned you to both, having ſo early put you
+<pb facs="tcp:32711:12"/>on the exerciſe of his Grances, Faith, Love, and Patience, which onely will dipoſe you, ſo theſe princley endowments and improvements that may gain you the love and favour of all thoſe that fear the Lord. With God I would have you begin, and with God I would have you end: you have begun well, the Lord bleſs you, go on end proſper; piety will make you proſperous, at leaſt it will keep you from being miſer<g ref="char:EOLhyphen"/>able, <hi>Godlineſs is profitable unto all things, having the promiſe of the life that now is, and of the life to come, 1 tim. 4.8.</hi> Nor is he much a loſer that loſeth all yet ſaveth his own ſoul. I truſt you have already taſted of that bitter cup whereof I have ſo deep<g ref="char:EOLhyphen"/>ly drunk. Above all, I would have you, as I hope you are already, well grounded and ſetled in Religion, and the wayes of God, in which I charge you to perſevere; for unleſs you be well grounded and ſet<g ref="char:EOLhyphen"/>tled in Religion, you ſhall never want temptations to deſtroy you. Therefore take heer of averting any Faction whatſo<g ref="char:EOLhyphen"/>ever, for I have obſerved, that the Devil of Rebellion doth turn himſelf commonly into an Angel of Light and Reformation: when ſome mens conſciences accuſe them
+<pb facs="tcp:32711:12"/>with Sedition and Hereſie, they like the old Serpent pretend new light, and ſtop its mouth with the name and noiſe of Re<g ref="char:EOLhyphen"/>ligion; and when Piety pleads for Peace and Patience, then they cry out Zeal, Zeal. Be ſure alwayes to keep up well<g ref="char:EOLhyphen"/>grounded Piety, and ſuch Fundamental Truths as mend both hearts and lives of moſt men: and with an equal eye and im<g ref="char:EOLhyphen"/>partial hand, diſtribute competent re<g ref="char:EOLhyphen"/>wards to ſuch as by well-doing ſhall de<g ref="char:EOLhyphen"/>ſerve them, which will undoubtedly gain you both the hearts and ſavours of the beſt, yea, and the moſt too, who thought they be not good themſelves will be glad to ſee the works of vertue ſweetned by temporal re<g ref="char:EOLhyphen"/>wards.</p>
+            <p>And once more I do require you, and in<g ref="char:EOLhyphen"/>treat you, as a Father, as a dying Father; that you never ſuffer your heart to receive the leaſt diſſatisfaction to the truth of Re<g ref="char:EOLhyphen"/>ligion now eſtabliſhed, which I have by ex<g ref="char:EOLhyphen"/>perience found to be the beſt in the world, and neareſt agreeing to the word of God. Happy times I have will attend you. The Lord bleſs you, and eſtabliſh your ſoul in right ouſneſs, that as you grow in years, ſo you may grow alſo in wiſdom and good<g ref="char:EOLhyphen"/>neſs
+<pb facs="tcp:32711:13"/>in grace and favour both with God and man. <hi>The Lord bleſs you, and make his face to ſhine upon you. And now behold I am ready to be offered up, and the time of my departure is at hand,</hi> I bleſs God I can ſay as St. <hi>Paul</hi> did, <hi>2 Tim. 3.7, 8. I have fought a good fight, I have finiſhed my courſe, I have kept the Faith; henceforth therefore there is ſaid up for me a crown of righteouſneſs, which the Lord the righteorus Judge ſhall give me at that day; and not to me onely, but to all them alſo that love his appearing.</hi> And now I leave you, and go before you to a better Kingdom; and inheritance that is incor<g ref="char:EOLhyphen"/>ruptible and undefiled, <hi>that fadeth not away, 1 Pet. 1.4.</hi> which the Lord hath pre<g ref="char:EOLhyphen"/>pared for me, and me for it, through the onely and alone merits of my onely and all ſufficient Lord and Saviour Jeſus Chriſt; to whoſe bleſſed protection and mercy, I commend and leave you: and ſo farewell till we meet, if not on Earth, yet in Heaven.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:32711:13"/>
+            <head>Courteous Reader.</head>
+            <p>THere is lately publiſhed an excellent and profitable Sermon, called, The Chriſtians Bleſſed Choice. Likewiſe Chriſts firſt Sermon. alſo, Chriſts laſt Sermon. And the Chriſtians beſt Gar<g ref="char:EOLhyphen"/>ment. Alſo Heavens Glory, and Hells Horror. And the School of Grace. Alſo, A warning piece to the Sloathful, Idle, Careleſs, Drunken, and Se<g ref="char:EOLhyphen"/>cure Ones of theſe laſt and worſt of times. Very godly Books, and are but three pence price.</p>
+            <p>Likewiſe
+<list>
+                  <item>1. Englands Faithful Phyſician.</item>
+                  <item>2. The dreadful character of drunkard.</item>
+                  <item>3. Dooms-day at hand.</item>
+                  <item>4. The Fathers laſt Bleſſing to his children.</item>
+                  <item>5. The ſin of Pride arraigned and condemned.</item>
+                  <item>6. The Black Book of Conſcience.</item>
+                  <item>7. Peters Sermon of Repentance.</item>
+                  <item>8. The Plain Mans Plain Path-way to Heaven.</item>
+                  <item>9. Death Triumphant.</item>
+                  <item>10. The Charitable Chriſtian.</item>
+               </list>
+            </p>
+            <p>All very neceſſary for theſe licentious times, and each of them being but of two pence price They are to be ſold by Elizabeth Andrews, at the White Lion near Pye-Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
